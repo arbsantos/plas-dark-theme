@@ -1,6 +1,6 @@
 # Plas dark
 
-**Plas dark** is a dark theme for Visual Studio Code based on the syntax highligh from [September Steel](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) by [Per Ragnar Edin
+**Plas dark** is a dark theme for Visual Studio Code based on the syntax highligh colors from [September Steel](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) by [Per Ragnar Edin
 ](https://marketplace.visualstudio.com/publishers/perragnaredin).
 
 Enjoy!
