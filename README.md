@@ -1,10 +1,11 @@
-# September Steel
+# Plas dark
 
-**September Steel** is a dark theme for Visual Studio Code based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
+**Plas dark** is a dark theme for Visual Studio Code based on the syntax highligh from [September Steel](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) by [Per Ragnar Edin
+](https://marketplace.visualstudio.com/publishers/perragnaredin).
 
 Enjoy!
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/perragnaredin.september-steel.svg)](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) ![test](https://vsmarketplacebadge.apphb.com/installs-short/perragnaredin.september-steel.svg)
+<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/perragnaredin.september-steel.svg)](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) ![test](https://vsmarketplacebadge.apphb.com/installs-short/perragnaredin.september-steel.svg)
 
 ## Screenshots
 
@@ -31,9 +32,10 @@ Enjoy!
 
 #### Compact
 ![Compact](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/bonus-compact-coding.png)
-
+-->
 ## Credit
 
-**September Steel** is based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
+**Plas dark** is based on [September Steel](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) by [Per Ragnar Edin
+](https://marketplace.visualstudio.com/publishers/perragnaredin).
 
 The icon theme in the screenshot is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) by [Philipp Kief](https://marketplace.visualstudio.com/search?term=publisher%3A%22Philipp%20Kief%22&target=VSCode&category=All%20categories&sortBy=Relevance).
