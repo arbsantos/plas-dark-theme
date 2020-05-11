@@ -1,14 +1,14 @@
 {
-    "name": "september-steel",
-    "displayName": "September Steel",
-    "description": "A dark flat theme based on One Monokai Theme by Joshua Azemoh.",
+    "name": "plas-dark",
+    "displayName": "Plas dark",
+    "description": "A dark flat theme based on September Steel Theme by Per Ragnar Edin.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/perragnar/september-steel"
+        "url": "https://github.com/arbsantos/yet-another-dark-theme"
     },
-    "version": "0.1.33",
+    "version": "0.1.0",
     "preview": false,
-    "publisher": "perragnaredin",
+    "publisher": "arbsantos",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.12.0"
@@ -23,16 +23,14 @@
     "keywords": [
         "flat",
         "theme",
-        "dark",
-        "steel",
-        "one monokai"
+        "dark"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "September Steel",
+                "label": "Plas dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/September Steel-color-theme.json"
+                "path": "./themes/yet-another-dark-theme.json"
             }
         ]
     }
